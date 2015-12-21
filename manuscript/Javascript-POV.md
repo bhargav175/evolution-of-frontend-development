@@ -1,3 +1,5 @@
+## Javascript History
+
 **1995** - Brendan Eich took 10 days to build the first version of Javascript. Marc Andresson suggested Mocha as the name. Later it was changed to LiveScript. Later, the same year in September, after receiving a trademark License from Sun, Javascript was finalized as the name.
 
 **1996-1997** - ECMA became the standard for Javascript. Different versions of ECMA standards with subtle variations were released by players in the industry. ActionScript3 is another popular implementation of Ecmascript. Variations caused conflict. 
